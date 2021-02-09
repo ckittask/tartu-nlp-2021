@@ -13,7 +13,7 @@ This allows for the other students to see your question and also participate in 
 **DEADLINE INFO: All deadlines are Tuesday 23:59PM, you have 2 weeks for each homework! Submit in Moodle.**
 ### Lab materials 
 
-* Lab 1 - NLP Basics [(Google Colab)](https://colab.research.google.com/drive/1-kpy_r67B_ZySzy-kWLHAjvCHfT84GfH?usp=sharing) 
+* Lab 1 - NLP Basics [(Google Colab)](https://colab.research.google.com/drive/1-kpy_r67B_ZySzy-kWLHAjvCHfT84GfH?usp=sharing) [(solution)](https://colab.research.google.com/drive/1lePTqdYY1GxshBqbXvJfNr_EgYRKfnQI?usp=sharing)
 * Lab 2 - NLP Pipelines
 * Lab 3 - Data Annotation
 * Lab 4 - Word Embeddings
