@@ -25,7 +25,7 @@ This allows for the other students to see your question and also participate in 
 
 ### Homework materials
 
-* Homework 1 - Text Processing
+* Homework 1 - Text Processing [(Google Colab)](https://colab.research.google.com/drive/1aG46syMfyG7yW8gnE2leQE0lwJHRc80z?usp=sharing)
 * Homework 2 - Data Annotation part I
 * Homework 3 - Word Embeddings
 * Homework 4 - Text Classification
