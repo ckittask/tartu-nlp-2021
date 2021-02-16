@@ -14,7 +14,7 @@ This allows for the other students to see your question and also participate in 
 ### Lab materials 
 
 * Lab 1 - NLP Basics [(Google Colab)](https://colab.research.google.com/drive/1-kpy_r67B_ZySzy-kWLHAjvCHfT84GfH?usp=sharing) [(solution)](https://colab.research.google.com/drive/1lePTqdYY1GxshBqbXvJfNr_EgYRKfnQI?usp=sharing)
-* Lab 2 - NLP Pipelines [(Google Colab)](https://colab.research.google.com/drive/11mul8HPIeEH6mBtisrdYBY6Uk4y1vlSd?usp=sharing)
+* Lab 2 - NLP Pipelines [(Google Colab)](https://colab.research.google.com/drive/11mul8HPIeEH6mBtisrdYBY6Uk4y1vlSd?usp=sharing) [(solution)](https://colab.research.google.com/drive/12BGVvkwBFXMFDoPlEfVLisL2HU0punct?usp=sharing)
 * Lab 3 - Data Annotation
 * Lab 4 - Word Embeddings
 * Lab 5 - Text Classification
