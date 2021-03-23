@@ -28,7 +28,7 @@ This allows for the other students to see your question and also participate in 
 * Homework 1 - Text Processing [(Google Colab)](https://colab.research.google.com/drive/1aG46syMfyG7yW8gnE2leQE0lwJHRc80z?usp=sharing)
 * Homework 2 - Data Annotation part I [(Instructions)](https://docs.google.com/document/d/1rvOOXqsj0vPybNLmH8Q5k-8UsbCg1mtbYeeNXcIPhiM/edit?usp=sharing)
 * Homework 3 - Word Embeddings [(Google Colab)](https://colab.research.google.com/drive/1dT_xVwb119wYzhWbKmlz2Vre9BwyMQIN?usp=sharing)
-* Homework 4 - Text Classification
+* Homework 4 - Text Classification [(Google Colab)](https://colab.research.google.com/drive/1_paRU0i4FC7nct7alMCw_xfsLz0rHwDY?usp=sharing)
 * Homework 5 - Sequence Tagging 
 * Homework 6 - Contextual Word Embeddings
 * Homework 2 - Data Annotation part II
