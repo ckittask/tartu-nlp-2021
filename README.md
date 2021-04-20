@@ -19,7 +19,7 @@ This allows for the other students to see your question and also participate in 
 * Lab 4 - Word Embeddings [(Google Colab)](https://colab.research.google.com/drive/1QU6PwADG1D1WaVZtmQs2QupdtSApBumZ?usp=sharing) [(solution)](https://colab.research.google.com/drive/1VOALMaxfOS_UFz089lVb2kvFK3AVsL_s?usp=sharing)
 * Lab 5 - Text Classification [(Google Colab)](https://colab.research.google.com/drive/1jO8YnmzwPYy3gg-xzrztO-vn6X2nyKq5?usp=sharing) [(solution)](https://colab.research.google.com/drive/1lfksDzGcpjfWHrk4Q59q7inwDTnr6R--?usp=sharing)
 * Lab 6 - Sequence Tagging [(Google Colab)](https://colab.research.google.com/drive/19Qfsjscd5SoaPoM6PUYKdDHFz8kGrpYn?usp=sharing) [(solution)](https://colab.research.google.com/drive/178WEBr4LmheP4VJbWG6XMyqzlIe8WQmX?usp=sharing)
-* Lab 7 - Contextual Word Embeddings [(Google Colab)](https://colab.research.google.com/drive/1zc1luMJQer_Z6FVP2nrzrt19nWjX1TfC?usp=sharing)
+* Lab 7 - Contextual Word Embeddings [(Google Colab)](https://colab.research.google.com/drive/1zc1luMJQer_Z6FVP2nrzrt19nWjX1TfC?usp=sharing) [(solution)](https://colab.research.google.com/drive/1J7cyANKorKZIHrih95DCVCBQ-4gLdYT6?usp=sharing)
 * Lab 8 - Data Annotation Evaluation
 
 
@@ -30,5 +30,5 @@ This allows for the other students to see your question and also participate in 
 * Homework 3 - Word Embeddings [(Google Colab)](https://colab.research.google.com/drive/1dT_xVwb119wYzhWbKmlz2Vre9BwyMQIN?usp=sharing)
 * Homework 4 - Text Classification [(Google Colab)](https://colab.research.google.com/drive/1_paRU0i4FC7nct7alMCw_xfsLz0rHwDY?usp=sharing)
 * Homework 5 - Sequence Tagging [(Google Colab)](https://colab.research.google.com/drive/10Af0rHNy2LcmamIvF4wWC-mDSrFxsvD-?usp=sharing)
-* Homework 6 - Contextual Word Embeddings
+* Homework 6 - Contextual Word Embeddings [(Google Colab)](https://colab.research.google.com/drive/10ujgh1OONg14KjPrxe4Dzmx3eO4SefVA?usp=sharing)
 * Homework 2 - Data Annotation part II
